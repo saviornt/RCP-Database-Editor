@@ -115,7 +115,7 @@ Create a `.env` file in the root directory with the following variables:
 
 ```env
 MONGO_URI=mongodb://localhost:27017/
-MONGO_DB_NAME=DungeonCoreDB
+MONGO_DB_NAME=your_database_name
 MONGO_USERNAME=your_username
 MONGO_PASSWORD=your_password
 ```
