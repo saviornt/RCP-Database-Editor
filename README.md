@@ -1,6 +1,6 @@
 # RCP Database Editor
 
-**RCP Database Editor** is a modern, PyQt6-based GUI application for managing hierarchical game data (such as Races, Classes, and Professions) stored in a MongoDB database. It provides a visual, user-friendly interface for creating, editing, visualizing, and organizing complex data structures, making it ideal for game designers and developers.
+**RCP Database Editor** is a modern, PyQt6-based GUI application for managing hierarchical game data (such as Races, Classes, and Professions) stored in a MongoDB database. It provides a visual, user-friendly interface for creating, editing, visualizing, and organizing complex, RPG-based data structures, making it ideal for game designers and developers. This tool is the first step in automating complex systems within Unreal Engine 5, by storing various RPG gameplay elements within MongoDB so they can then be imported en-mass into various Unreal Engine 5 elements such as Gameplay Tags, the Gameplay Abilities System, DataTables, and Data Assets using another Python3 automation script.
 
 ---
 
